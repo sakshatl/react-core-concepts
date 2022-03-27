@@ -1,0 +1,43 @@
+* {
+  font-family: sans-serif;
+}
+
+.text.primary {
+  color: #3b82f6;
+}
+
+.text.secondary {
+  color: #d1d5db;
+}
+
+.text.success {
+  color: #10b981;
+}
+
+.text.danger {
+  color: #ef4444;
+}
+
+.text.small {
+  font-size: 14px;
+}
+
+.text.base {
+  font-size: 16px;
+}
+
+.text.medium {
+  font-size: 24px;
+}
+
+.text.large {
+  font-size: 32px;
+}
+
+.text.xlarge {
+  font-size: 40px;
+}
+
+.text.xxlarge {
+  font-size: 48px;
+}
